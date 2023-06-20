@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá pessoal 👋
 
-<!--
-**klooke/klooke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Sobre o Kevin
+Tem conhecimento em desenvolvimento de software para windows, além de games com a Unity, atualmente estudando desenvolvimento WEB (Full-Stack com Python/Java).
 
-Here are some ideas to get you started:
+### Detalhes
+[![klooke's Stats](https://github-readme-stats.vercel.app/api?username=klooke&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto Atual
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens
+[![klooke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klooke&theme=react&show_icons=true&hide_border=true&layout=compact)]((https://github.com/anuraghazra/github-readme-stats))
