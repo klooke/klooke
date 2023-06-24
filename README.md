@@ -31,10 +31,13 @@
 ![klooke's Stats](https://github-readme-stats-nu-seven-97.vercel.app/api?username=klooke&theme=dark&show_icons=true&hide_border=true&include_all_commits=true)
 
 ### Projetos públicos
-![klooke's Readme Card](https://github-readme-stats-nu-seven-97.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=dark)
+[![klooke's Readme Card](https://github-readme-stats-nu-seven-97.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=dark)](https://github.com/klooke/tiktok-clone)
 
 ### Ranking linguagens
 ![klooke's Top Languages](https://github-readme-stats-nu-seven-97.vercel.app/api/top-langs/?username=klooke&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true)
+
+### Trófeus
+![klooke's Trophies](https://github-profile-trophy.vercel.app/?username=klooke&no-bg=true&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 ### Rede sociais
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-oliveira-damasceno-41babb215/)
