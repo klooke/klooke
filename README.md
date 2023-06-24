@@ -27,13 +27,13 @@
 ![klooke's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klooke&theme=dark)
 
 ### Detalhes
-[![klooke's Stats](https://github-readme-stats.vercel.app/api?username=klooke&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![klooke's Stats](https://github-readme-stats-git-master-klooke.vercel.app/api?username=klooke&theme=dark&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos públicos
-[![klooke's Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![klooke's Readme Card](https://github-readme-stats-git-master-klooke.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=dark)](https://github.com/klooke/tiktok-clone)
 
 ### Ranking linguagens
-[![klooke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klooke&theme=dark&show_icons=true&hide_border=true&layout=compact)]((https://github.com/anuraghazra/github-readme-stats))
+[![klooke's Top Languages](https://github-readme-stats-git-master-klooke.vercel.app/api/top-langs/?username=klooke&theme=dark&show_icons=true&hide_border=true&layout=compact)]((https://github.com/anuraghazra/github-readme-stats))
 
 ### Rede sociais
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-oliveira-damasceno-41babb215/)
