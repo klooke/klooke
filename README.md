@@ -5,14 +5,12 @@ Sou desenvolvedor .NET/Java e também trabalho com games, atualmente estou cursa
 ### Status:
 <div align="left">
   <a href="#">
-      <img height="200" alt="Stats" src="https://github-readme-stats-nu-seven-97.vercel.app/api?username=klooke&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" />
-  </a>
-  <a href="#">
-      <img height="200" alt="Top Languages" src="https://github-readme-stats-nu-seven-97.vercel.app/api/top-langs/?username=klooke&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />
-  </a>
+      <img height="180em" alt="Stats" src="https://github-readme-stats-ddj8eakll-klooke.vercel.app/api?username=klooke&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" />
+      <img height="180em" alt="Top Languages" src="https://github-readme-stats-ddj8eakll-klooke.vercel.app/api/top-langs/?username=klooke&theme=dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5" />
   <!--a href="#">
       <img height="100" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=klooke&no-bg=true&no-frame=true&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
   </a-->
+  </a>
 </div>
 
 <br />
@@ -36,4 +34,4 @@ Sou desenvolvedor .NET/Java e também trabalho com games, atualmente estou cursa
 <br />
 
 ### Público:
-[![klooke's Readme Card](https://github-readme-stats-nu-seven-97.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=dark)](https://github.com/klooke/tiktok-clone)
+[![klooke's Readme Card](https://github-readme-stats-ddj8eakll-klooke.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=dark)](https://github.com/klooke/tiktok-clone)
