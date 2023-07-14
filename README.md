@@ -5,7 +5,7 @@ Sou desenvolvedor .NET/Java e também trabalho com games, atualmente estou cursa
 ## Rede Sociais:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klooke)
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-oliveira-damasceno-41babb215/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](klooke2013@gmail.com)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klooke2013@gmail.com)
 [![DIO](https://img.shields.io/badge/-Perfil%20DIO-09f?style=for-the-badge)](https://web.dio.me/users/klooke2013?tab=skills)
 
 ## Status:
