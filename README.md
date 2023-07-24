@@ -41,4 +41,4 @@ Sou desenvolvedor .NET/Java e também trabalho com games, atualmente estou cursa
 <br />
 
 ## Público:
-[![Software-Company-Site](https://github.com/klooke/site-software-company)
+[![klooke's Readme Card](https://github-readme-stats-ddj8eakll-klooke.vercel.app/api/pin/?username=klooke&repo=site-software-company&theme=dark)](https://github.com/klooke/site-software-company)
