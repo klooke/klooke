@@ -41,4 +41,4 @@ Sou desenvolvedor .NET/Java e também trabalho com games, atualmente estou cursa
 <br />
 
 ## Público:
-[![klooke's Readme Card](https://github-readme-stats-ddj8eakll-klooke.vercel.app/api/pin/?username=klooke&repo=tiktok-clone&theme=dark)](https://github.com/klooke/tiktok-clone)
+[![Software-Company-Site](https://github.com/klooke/site-software-company)
