@@ -4,27 +4,42 @@
 
 # Olá, meu nome é Kevin! 👋
 
-Sou apaixonado por informática desde pequeno, quando acompanhava meu pai no trabalho de TI e admirava aquele amontoado de hardware, gabinetes e periféricos.
+Sou Desenvolvedor Unity e apaixonado por Games e Informática desde pequeno.
 
-Meu primeiro contato com programação foi aos 12 anos, quando ganhei meu primeiro computador. Eu estudava Linguagem C a partir de apostilas gratuitas que encontrava na internet e criava desde calculadoras até simuladores de resultados de futebol. Infelizmente durou pouco, já que precisaram vendê-lo.
+<details>
+  <summary><b>Um pouco sobre mim...</b></summary>
 
-Aos 16 anos, larguei os estudos e fui ajudar meu pai, que estava trocando de carreira para Técnico de Celular. Naquela época, os celulares estavam em alta e, com isso, acabei deixando a informática um pouco de lado. Mas consegui, com o pouco que ganhava, montar um novo computador.
+  ```
+  Sou apaixonado por jogos e informática desde pequeno. Acompanhava meu pai no trabalho de TI e ficava fascinado com o hardware, gabinetes e periféricos. Adorava quando ele instalava dezenas de jogos no Windows 2000 do seu PC.
 
-Em 2016, decidi retomar meu sonho e voltei a estudar programação com linguagem C# e também minha segunda paixão: criar games com a Unity.
+  Aos 12 anos, tive meu primeiro contato com a programação quando ganhei meu primeiro computador. Estudava Linguagem C através de apostilas gratuitas que encontrava na internet e criava desde calculadoras até simuladores de resultados de futebol.
 
-Atualmente estou cursando o segundo período de Ciência da Computação na Estácio e me aprofundando em diversas outras linguagens.
+  Aos 16 anos, deixei os estudos para ajudar meu pai, que estava mudando de carreira para a área de smartphones. Com isso, acabei deixando a informática e os estudos um pouco de lado.
 
-Um pouco do meu histórico:
-- Aplicativos console com [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](#).
-- Técnico de Celular e Vendedor (5 anos de experiência).
-- Aplicativos com [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](#) e [![NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#).
-- Versionamento com [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](#).
-- Protótipos de jogo com [![UNITY](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](#) em 2D.
-- Protótipos de jogos com [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](#).
-- Aplicativos console com [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#).
-- Websites com [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](#), [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](#) e [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](#) puro.
+  Em 2016, decidi retomar meu sonho e voltei a estudar programação com linguagem C# e também minha segunda paixão: criar jogos com a Unity.
 
-Meu objetivo é obter um estágio/trabalho com o desenvolvimento de games/software para poder evoluir e trabalhar em equipe.
+  Em 2019, criei meu primeiro protótipo jogável no Unity. A ideia dos meus amigos era criar um jogo do tipo Space Invaders, infelizmente a ideia não foi pra frente, mas a experiência ficou.
+
+  Em 2021, decidi que era hora de aprender outras linguagens além do C#, então comecei estudando JAVA o que era o mais próximo e Python.
+
+  Em 2022, logo após a pandemia de COVID, decidi ingressar na faculdade, pois acredito que me faltava a base pra continuar evoluindo como programador, então precisei fazer o ENCCEJA e finalmente concluir.
+
+  Atualmente, além da faculdade, estou aprendendo a trabalhar em projetos WEB básicos e Banco de Dados (SQL), espero com isso fortalecer mais ainda a minha base como programador.
+  ```
+
+</details>
+
+## Linguagens e Tecnologias:
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)](#)
+[![NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)](#)
+[![UNITY](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](#)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](#)
 
 ## Status:
 <div align="left">
@@ -36,8 +51,9 @@ Meu objetivo é obter um estágio/trabalho com o desenvolvimento de games/softwa
 
 <br />
 
-## Projetos web:
-[![klooke's Readme Card](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=site-software-company&theme=dark)](https://github.com/klooke/site-software-company)
-[![klooke's Readme Card](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=site-contact-list&theme=dark)](https://github.com/klooke/site-contact-list)
+## Protótipos de Jogos:
+[![First Unity Game Prototype](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=Project-Space-Invaders&theme=dark)](https://github.com/klooke/Project-Space-Invaders)
 
-*Obs.: Em breve deixo público os protótipos de jogo.*
+## Projetos HTML/CSS/JS:
+[![First HTML/CSS Project](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=site-software-company&theme=dark)](https://github.com/klooke/site-software-company)
+[![First JS Project](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=site-contact-list&theme=dark)](https://github.com/klooke/site-contact-list)
