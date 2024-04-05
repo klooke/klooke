@@ -4,30 +4,7 @@
 
 # Olá, meu nome é Kevin! 👋
 
-Sou Desenvolvedor Unity e apaixonado por Games e Informática desde pequeno.
-
-<details>
-  <summary><b>Um pouco sobre mim...</b></summary>
-
-  ```
-  Sou apaixonado por jogos e informática desde pequeno. Acompanhava meu pai no trabalho de TI e ficava fascinado com o hardware, gabinetes e periféricos. Adorava quando ele instalava dezenas de jogos no Windows 2000 do seu PC.
-
-  Aos 12 anos, tive meu primeiro contato com a programação quando ganhei meu primeiro computador. Estudava Linguagem C através de apostilas gratuitas que encontrava na internet e criava desde calculadoras até simuladores de resultados de futebol.
-
-  Aos 16 anos, deixei os estudos para ajudar meu pai, que estava mudando de carreira para a área de smartphones. Com isso, acabei deixando a informática e os estudos um pouco de lado.
-
-  Em 2016, decidi retomar meu sonho e voltei a estudar programação com linguagem C# e também minha segunda paixão: criar jogos com a Unity.
-
-  Em 2019, criei meu primeiro protótipo jogável no Unity. A ideia dos meus amigos era criar um jogo do tipo Space Invaders, infelizmente a ideia não foi pra frente, mas a experiência ficou.
-
-  Em 2021, decidi que era hora de aprender outras linguagens além do C#, então comecei estudando JAVA o que era o mais próximo e Python.
-
-  Em 2022, logo após a pandemia de COVID, decidi ingressar na faculdade, pois acredito que me faltava a base pra continuar evoluindo como programador, então precisei fazer o ENCCEJA e finalmente concluir.
-
-  Atualmente, além da faculdade, estou aprendendo a trabalhar em projetos WEB básicos e Banco de Dados (SQL), espero com isso fortalecer mais ainda a minha base como programador.
-  ```
-
-</details>
+Sou Desenvolvedor Unity e apaixonado por Games e Informática.
 
 ## Linguagens e Tecnologias:
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](#)
