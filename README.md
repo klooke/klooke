@@ -30,6 +30,9 @@ Sou Desenvolvedor Unity e apaixonado por Games e Informática.
 
 ## Protótipos de Jogos:
 [![First Unity Game Prototype](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=Project-Space-Invaders&theme=dark)](https://github.com/klooke/Project-Space-Invaders)
+[![Game Detona Ralph](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=game-detona-ralph&theme=dark)](https://github.com/klooke/game-detona-ralph)
+[![Game Memória](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=game-memoria&theme=dark)](https://github.com/klooke/game-memoria)
+[![Game Yugio-oh JokenPo](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=game-yugioh&theme=dark)](https://github.com/klooke/game-yugioh)
 
 ## Projetos HTML/CSS/JS:
 [![First HTML/CSS Project](https://github-readme-stats.vercel.app//api/pin/?username=klooke&repo=site-software-company&theme=dark)](https://github.com/klooke/site-software-company)
